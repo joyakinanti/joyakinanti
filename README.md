@@ -17,7 +17,7 @@ I am an **Informatics** student at **Institut Teknologi Sumatera (ITERA)** with 
 - Experienced in **Documentation** and Managing Visual Information.
 
 ### 💻 Tech Stack & Skills
-- **Programming:** Python, C++, Java (sesuaikan dengan yang kamu pelajari di matkul).
+- **Programming:** C++.
 - **Tools & Platforms:** Git, GitHub, Linux.
 - **Soft Skills:** Technical Writing, Public Speaking, Creative Writing.
 
