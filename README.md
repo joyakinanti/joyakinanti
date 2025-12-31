@@ -25,7 +25,7 @@ I am an **Informatics** student at **Institut Teknologi Sumatera (ITERA)** with 
 
 ### 📫 Connect with me:
 - **LinkedIn:** [Cecilia Joya Kinanti](https://www.linkedin.com/in/cecilia-joya-k-75202ba3/)
-- **Email:** [Isi Email Kamu]
+- **Email:** [joyakinanti@gmail.com]
 
 ---
 *"Building secure systems through clean code and effective communication."*
