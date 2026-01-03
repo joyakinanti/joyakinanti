@@ -1,31 +1,33 @@
 # Hi there, I'm Cecilia Joya Kinanti 👋
-### Informatics Student | Cybersecurity Enthusiast | National Selected Writer
+### Informatics Student | Google Certified Cybersecurity Professional | National Selected Writer
 
-I am an **Informatics** student at **Institut Teknologi Sumatera (ITERA)** with a deep interest in software security and technical communication. I love exploring how code works and, more importantly, how to keep it secure.
+I am an **Informatics** student at **Institut Teknologi Sumatera (ITERA)** with a deep focus on **Cybersecurity**. I have successfully earned the **Google Cybersecurity Professional Certificate**, mastering security operations, risk management, and incident response through an intensive 9-course program.
+
+Beyond technical expertise, I am a **National Selected Writer 2025**, which enables me to bridge complex technical concepts with clear, effective communication. I am passionate about building secure digital environments and leveraging **AI tools** to optimize security workflows and professional productivity.
 
 ---
 
-### 🛡️ Cybersecurity Expertise
+### 💻 Skills & Competencies
+
+#### 🛡️ Cybersecurity & Tech Stack
+- **Security:** Risk Assessment (NIST Framework), Incident Response, Network Security.
+- **Tools:** Linux Terminal, SQL, SIEM & IDS Tools (Suricata/Chronicle).
+- **Programming:** Python for Security Automation.
+
+#### 🚀 Professional & AI Literacy
+- **AI Integration:** Optimizing technical workflows and job search strategies using AI.
+- **Career Readiness:** Professional portfolio development and Cybersecurity career strategy.
+- **Technical Writing:** Experienced in national-scale creative writing and documentation.
+
+---
+
+### 🏆 Certifications
+- **Google Cybersecurity Professional Certificate** | Google
 - **Certified Cybersecurity Educator Professional (CCEP)** | Red Team Leaders
-  - [cite_start]*Credential ID: c7b957231ce25889* [cite: 9]
-  - [cite_start][Verify My Certification](https://courses.redteamleaders.com/exam-completion/c7b957231ce25889) [cite: 9]
-- Focused on: Information Security, Threat Education, and Secure Coding.
-
-### ✍️ Literacy & Creative Side
-- **National Selected Writer 2025** | PT Bara Pustaka Group
-  - Selected among **1,011 participants** in the National Poetry Competition.
-- Experienced in **Documentation** and Managing Visual Information.
-
-### 💻 Tech Stack & Skills
-- **Programming:** C++.
-- **Tools & Platforms:** Git, GitHub, Linux.
-- **Soft Skills:** Technical Writing, Public Speaking, Creative Writing.
+- **Play It Safe: Manage Security Risks** | Google
 
 ---
 
 ### 📫 Connect with me:
 - **LinkedIn:** [Cecilia Joya Kinanti](https://www.linkedin.com/in/cecilia-joya-k-75202ba3/)
-- **Email:** [joyakinanti@gmail.com]
-
----
-*"Building secure systems through clean code and effective communication."*
+- **Email:** joyakinanti@gmail.com
